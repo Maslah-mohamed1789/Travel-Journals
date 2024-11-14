@@ -1,11 +1,11 @@
 import React, { useState, useEffect } from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
-import Header from './components/Header';
-import Search from './components/Search';
+import Header from './Components/Header';
+import Search from './Components/Search';
 import AlreadyTravelled from './components/AlreadyTravelledAPI';
 import Wishlist from './components/WishlistAPI';
-import ErrorPage from './components/ErrorPage';
-import Navbar from './components/Navbar';
+import ErrorPage from './Components/ErrorPage';
+import Navbar from './Components/Navbar';
 import './App.css';
 
 const App = () => {
