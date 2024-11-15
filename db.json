@@ -21,7 +21,7 @@
       "destination": "Rio de Janeiro, Brazil",
       "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2lspVAcm_XbFaaBUO_2Kwst1MjcSJ19kfVA&s",
       "description": "Rio was pure energy and color, with lively music and breathtaking scenery. Standing at the base of Christ the Redeemer was humbling, and the views from Sugarloaf Mountain were unreal. Copacabana Beach buzzed with life, and I found joy in every samba beat and smile.",
-      "budget": "2500",
+      "budget": "1500",
       "status": "Already Travelled"
     },
     {
@@ -29,7 +29,7 @@
       "destination": "Barcelona, Spain",
       "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLH_poMR8imSwxvSAqUCQa_LO9D5VZWxSpgg&s",
       "description": "Barcelona was a feast for the senses, with Gaudi’s whimsical architecture giving the city a unique charm. La Sagrada Familia took my breath away, and wandering through the Gothic Quarter felt like a medieval adventure. Sunsets on the beach were a perfect way to end the day.",
-      "budget": "2400 USD",
+      "budget": "2450",
       "status": "Already Travelled"
     },
     {
@@ -61,7 +61,7 @@
       "destination": "Dubai, UAE",
       "imageUrl": "https://fnst.axflare.com/community/JPEG/GBJQzJMoxn.jpeg",
       "description": "Dubai is a futuristic city where innovation meets luxury. I'd love to visit the Burj Khalifa, the tallest building in the world, offering an incredible view of the skyline. The palm-shaped island of Palm Jumeirah is a unique engineering marvel, and the Dubai Mall, with its indoor aquarium and endless shopping, is a must-see. With its blend of traditional souks and modern skyscrapers, Dubai is a dynamic destination for both relaxation and adventure",
-      "budget": "2300",
+      "budget": "2400",
       "status": "Wishlist"
     },
     {
@@ -73,14 +73,6 @@
       "status": "Already Travelled"
     },
     {
-      "id": "12",
-      "destination": "Athens, Greece",
-      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPT6ldBlBb0VeEL-lSVulPcGW2FZMWHllEmQ&s",
-      "description": "Greece is a picturesque country known for its rich history, stunning landscapes, and beautiful islands. I’d visit the Acropolis in Athens, where ancient ruins meet breathtaking views of the city. The Greek islands, such as Santorini, offer stunning sunsets and white-washed buildings perched on cliffs. The crystal-clear waters and charming villages make Greece an ideal destination for both history lovers and those seeking relaxation by the sea.",
-      "budget": "2000",
-      "status": "Already Travelled"
-    },
-    {
       "id": "6d0a",
       "destination": "Nairobi , Kenya",
       "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9FnyYPauZ-X0Lo2-o3c_-2aB-k8QkcPFTNA&s",
@@ -89,27 +81,11 @@
       "status": "Wishlist"
     },
     {
-      "id": "8058",
-      "destination": "Tronto, Canada",
-      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU2zwD7yYu7zZDppPvuIgc8U2cpcB41nk1CA&s",
-      "description": "Toronto is a diverse city offering a perfect blend of urban life and nature. I'd explore the iconic CN Tower, where the views of the city and Lake Ontario are mesmerizing. The Royal Ontario Museum offers fascinating cultural insights, while the vibrant Distillery District is filled with art galleries, shops, and restaurants. Toronto is a city where cultures collide, and there's always something to do, whether it's enjoying nature at High Park or experiencing the bustling downtown",
-      "budget": "2600",
-      "status": "Already Travelled"
-    },
-    {
       "id": "ba34",
       "destination": "Florida",
       "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVLmAynk2-8W0UfCATlPyIor_Vh2r-LTZLEQ&s",
       "description": "Florida, known as the Sunshine State, is famous for its beautiful beaches, vibrant cities, and thrilling theme parks. From the magical world of Disney in Orlando to the stunning coastlines of Miami and the Keys, there's something for everyone. Whether you're seeking adventure, relaxation, or natural beauty, Florida offers it all. With year-round warm weather, it's the perfect destination for a getaway",
       "budget": "2500",
-      "status": "Wishlist"
-    },
-    {
-      "id": "e77d",
-      "destination": "Kyoto, Japan",
-      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRoxridbYEXVA_34zVqKtMWJL77C9GbVsnaQ&s",
-      "description": "Nestled in the mountains, Kyoto is a city where traditional beauty and modern charm coexist seamlessly. Known for its stunning temples, tranquil gardens, and vibrant autumn foliage, it's a haven for those seeking peace and inspiration. The famous Arashiyama Bamboo Grove and Kinkaku-ji, the Golden Pavilion, are must-see wonders. Whether enjoying tea in a serene teahouse or walking through Gion’s historic streets, Kyoto offers an experience that feels like stepping back in time. Perfect for travelers eager to immerse themselves in Japan's rich cultural heritage!",
-      "budget": "2300",
       "status": "Wishlist"
     }
   ]
