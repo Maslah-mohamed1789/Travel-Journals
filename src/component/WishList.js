@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import './Wishlist.css';
+import './WishList.css';
 
 const Wishlist = ({ entries, setEntries }) => {
   const [newEntry, setNewEntry] = useState({
