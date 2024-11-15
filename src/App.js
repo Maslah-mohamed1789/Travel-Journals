@@ -1,11 +1,11 @@
 import React, { useState, useEffect } from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
-import Header from './components/Header';
-import Search from './components/Search';
-import AlreadyTravelled from './components/AlreadyTravelledAPI';
-import Wishlist from './components/WishlistAPI';
-import ErrorPage from './components/ErrorPage';
-import Navbar from './components/Navbar';
+import Header from './Components/Header';
+import Search from './Components/Search';
+import AlreadyTravelled from './component/AlreadyTravelled';
+import Wishlist from './component/WishList';
+import ErrorPage from './Components/Errorpage';
+import Navbar from './Components/Navbar';
 import './App.css';
 
 const App = () => {
@@ -38,6 +38,7 @@ const App = () => {
   };
 
   const handlePost = async (newEntry) => {
+    
     try {
       const res = await fetch('http://localhost:3000/entries', {
         method: 'POST',
